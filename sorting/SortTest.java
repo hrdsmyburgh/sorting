@@ -1,4 +1,3 @@
-//Hardus Myburgh 40923894
 import java.io.File;
 import java.io.FileNotFoundException;
 import java.util.Scanner;
